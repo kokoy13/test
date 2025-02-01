@@ -40,12 +40,12 @@ mysqli_close($con);
     </div>
 
     <div class="main">
-        <seection class="section">
+        <section class="section">
             <div class="container">
                 <div id="margin_zero" class="content has-text-centered is-size-6">Please wait, you are being</div>
                 <div id="margin_zero" class="content has-text-centered is-size-6">authorized on the network</div>
             </div>
-        </seection>
+        </section>
     </div>
 
 </div>
